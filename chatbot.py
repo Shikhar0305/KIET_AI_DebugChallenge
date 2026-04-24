@@ -1,4 +1,3 @@
-
 """
 Conversational Bot — Vanilla RNN (NumPy) + NLTK preprocessing.
 No TensorFlow/PyTorch required.
